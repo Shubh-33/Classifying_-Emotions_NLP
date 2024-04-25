@@ -1,1 +1,2 @@
-# Classifying_-Emotions_NLP
+# Emotion-Classifier-App-
+A end-to-end NLP based app to classify emotions on text data...
